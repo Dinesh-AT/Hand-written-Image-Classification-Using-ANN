@@ -287,9 +287,4 @@ probability = model.predict(test_data)
 predicted_classes =np.argmax(probability)
 
 
-# In[ ]:
-
-
-print(f"predicted class: {predicted_classes}\nprobability
-     value of pre)
 
